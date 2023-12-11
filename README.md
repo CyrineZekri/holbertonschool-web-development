@@ -1,5 +1,3 @@
-# Project README
-
 ## Project Overview
 
 Welcome to the Webpage Implementation Project! In this and upcoming projects, you will have the exciting opportunity to bring a designer's vision to life by implementing webpages from provided designer files. The focus of this first project is on the HTML structure, emphasizing pure HTML semantics without any CSS or styling.
