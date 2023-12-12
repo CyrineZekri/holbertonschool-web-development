@@ -13,6 +13,7 @@ Implement the HTML structure of a webpage based on a designer file provided on F
 - **File Format**: Figma
 - **Designer File Link**: [Page in Figma](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage?type=design&node-id=0-1&mode=design)
 - **Figma Design**: 
+![Alt Text](./overview.png)
 
 
 ### Accessing Design Details : 🧷
