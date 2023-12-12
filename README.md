@@ -1,26 +1,21 @@
+# Project Title
+
+## Introduction
+
+Welcome to Holberton Specialisation first web development project designed to help you explore the fundamentals of web development. Whether you are a beginner looking to learn the basics or an experienced developer seeking a refresher, this project aims to provide a hands-on experience in building and understanding web applications.
+
 ## Project Overview
 
-Welcome to the Webpage Implementation Project! In this and upcoming projects, you will have the exciting opportunity to bring a designer's vision to life by implementing webpages from provided designer files. The focus of this first project is on the HTML structure, emphasizing pure HTML semantics without any CSS or styling.
+This project covers the following key aspects of web development:
 
-### Project Details
+- **HTML (HyperText Markup Language):** The structural foundation of web pages.
+- **CSS (Cascading Style Sheets):** Styling and formatting to enhance the visual appeal.
+- **JavaScript:** Adding interactivity and dynamic behavior to web pages.
+- **Version Control (Git):** Managing changes and collaborating with others.
+- **Responsive Design:** Ensuring your web application works well on various devices.
 
-- **Task**: Implement the HTML structure based on the designer file provided on Figma.
-- **File Format**: Figma
-- **Designer File Link**: [Page in Figma](#) *(Insert the link to the Figma page here)*
-- **Figma File**: *(Include the link to the .fig file here)*
+### AUTHOR 
+Made with Love by Cyrine ❤️  
+[Cyrine Zekri](https://github.com/CyrineZekri)
 
-### Accessing Design Details
 
-To access all the design details, please follow these steps:
-
-1. Create a Figma account if you don't have one.
-2. Visit the [Page in Figma](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage?type=design&node-id=0-1&mode=design) link.
-3. Duplicate the file to your drafts to gain access to all design details.
-
-## Getting Started
-
-To begin the implementation process, follow these steps:
-
-1. Clone this repository to your local machine.
-   ```bash
-   git clone <repository-url>
