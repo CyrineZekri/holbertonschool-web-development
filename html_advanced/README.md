@@ -1,4 +1,4 @@
-# Project Name : HTML, advanced
+# HTML, advanced
 
 ## Project Overview
 
@@ -16,7 +16,7 @@ The designer file for this project is available on Figma. You can access the fin
 - **Task**: Implement the HTML structure based on the designer file provided on Figma.
 - **File Format**: Figma
 - **Designer File Link**: [Page in Figma](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage?type=design&node-id=0-1&mode=design)
-- **Figma File**: *(Include the link to the .fig file here)*
+- **Figma Design Overview**: *(Include the link to the .fig file here)*
 
 ### Accessing Design Details
 
